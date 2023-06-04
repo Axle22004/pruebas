@@ -1,0 +1,62 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "name": "Axel",
+      "correo": "axelacunaleon@gmail.com"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "name": "Chester",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "name": "Mohamed",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "name": "Youssef",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "name": "Adam",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 6,
+        "name": "Ella",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 7,
+        "name": "Sara",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 8,
+        "name": "Lisa",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 9,
+        "name": "Nora",
+        "correo": "########@gmail.com"
+      },
+      {
+        "userId": 1,
+        "id": 10,
+        "name": "Celeste",
+        "correo": "########@gmail.com"
+      }
+]
